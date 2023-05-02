@@ -1,3 +1,3 @@
-# sadik_portfolio.github.io
+# sadik-abd.github.io
 
 Project portfolio
