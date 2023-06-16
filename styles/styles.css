@@ -464,54 +464,50 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 60%;
-}
-
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 30%;
+  width: 70%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 60%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+  width: 100%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 50%;
+  width: 100%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .pytorch{
-  width: 40%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .tensorflow {
-  width: 64%;
+  width: 104%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .keras {
-  width: 70%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 90%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .ktl {
-  width: 50%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-  width: 60%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .sdl {
-  width: 63%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .unity {
-  width: 13%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .ans {
-  width: 55%;
+  width: 100%;
 }
 .stat-title {
   text-transform: uppercase;
